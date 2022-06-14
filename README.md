@@ -8,4 +8,4 @@ Multiplicação <img src="https://user-images.githubusercontent.com/98672747/173
 
 
 
-Divisão <img src="https://user-images.githubusercontent.com/98672747/173693734-d4f59fc8-780c-4f98-a602-34cbbf53ede4.png" width="170" height="320 "/>
+Divisão <img src="https://user-images.githubusercontent.com/98672747/173693734-d4f59fc8-780c-4f98-a602-34cbbf53ede4.png" width="180" height="340 "/>
